@@ -176,7 +176,15 @@ connected route for the local LAN.</p>
 <h4> PC2 pinging PC0:
 </h4>
 
- <p><img src="https://i.imgur.com/Tq1HApA.png" height="80%" width="80%"/>
+ <p><img src="https://i.imgur.com/TbtM7QH.png" height="80%" width="80%"/>
+</p>
+
+<br>
+
+<h4> PC0 pinging PC2:
+</h4>
+
+ <p><img src="https://i.imgur.com/W04R9k1.png" height="80%" width="80%"/>
 </p>
 
 <br>
