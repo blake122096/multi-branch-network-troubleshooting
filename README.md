@@ -206,7 +206,7 @@ requirements:</p>
    <li>Multi-router connectivity troubleshooting</li>
    <li>Layer 3 path analysis</li>
      <li>ICMP testing and validation</li>
-     <li>Cisco Packet Tracer/li>
+     <li>Cisco Packet Tracer</li>
 </ul>  
 
 
